@@ -4,7 +4,7 @@
 
 ## Diagrama de clases
 
-![Diagrama de Clases](DIAGRAMA_DE_CLASES_BUSCAMINAS_V2.jpg)
+![Diagrama de Clases](DIAGRAMA_DE_CLASES_BUSCAMINAS_V2.jpg.jpeg)
 
 ---
 
